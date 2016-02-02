@@ -1,5 +1,12 @@
+---
+title: "Codebook"
+output: html_document
+---
+
 Feature Selection 
 =================
+
+Below explains all the values found in the tidy data set. 
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
 These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered 
